@@ -1,3 +1,13 @@
+# Reflection 3
+## 2/9/2018
+This wook we start to learn the python 2, and the python 2 started from how to get string done. 
+The string is the work of one should put the raw input to the computer and the other one can put something in there and the computer will work it to get them together.
+The next is to get an integer, the integer is a number that don't have decimal on it, it will only do the calculation btween 0 to above.
+The next is the flowding point, the flowding point, can sove the problem on all the number, you neec to have a decimal on the number, so the computer should calculate all the numbedr that can be calculed.
+The nect is booliam, what it is, is that it can have several true and fales equations, and all them can be put together, and the computer will tell you if the statement, is true or fales at the moment.
+
+---
+
 # Reflection 2
 ## 2/2/2018
 This week we start to learn how to get our home work in to the github and add the stuff to git hub. 
