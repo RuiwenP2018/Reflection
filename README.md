@@ -1,3 +1,12 @@
+# Reflection 4
+## 2/16/2018
+This week we start to learn how to use string to do s lot of things, we start to learn how to cut the string by using midpoint code, and cut a sentence or a word to two parts, or three parts.
+Then find out all the letter that is in the word or find all the letter that you want to find, and print them out.
+And to use len of some thing to sount how many words or letter is in that sentence or word. it will be very usefull after I start to code for separating the sentence and then flipe them.
+Last is use split and revers, to first separate the sentence and then use revers to revers the words or the whole sentence, which I have no idea waht is use of that.
+
+---
+
 # Reflection 3
 ## 2/9/2018
 This wook we start to learn the python 2, and the python 2 started from how to get string done. 
