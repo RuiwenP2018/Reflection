@@ -1,3 +1,12 @@
+# Reflection 5
+## 2/23/2018
+This week we keep learning about string and booliam, the advanced part of all this. I learned how to make a python file with if and else and elif.
+IF I use when I need to start to say I need to get the answer in order, and get them to match what I want.
+Elif is use for when if ia being used and I still have some thing els that I need to add for the equation, then I can use elif, it can be understand as else if.
+The last is else, for this one I don't have to say anything is equal to anything, it just mean, if the user type something that is not in theselaction of my word ort number, it will be put in to else. then I can just print, have the user reput in a number or word.
+
+---
+
 # Reflection 4
 ## 2/16/2018
 This week we start to learn how to use string to do s lot of things, we start to learn how to cut the string by using midpoint code, and cut a sentence or a word to two parts, or three parts.
