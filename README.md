@@ -1,3 +1,20 @@
+# Reflextion 7
+## 3/9/2018
+This week is a pretty easy week, the first day we start with learning more about how the booleam wors, and how it can be more advanced, and the new home word is really hard for me now, but I am still working on it, it needs more work with string and booleam.
+I start with making a board, which is a 9*9 squared board, which the game should be all the line will be only nine numbers, and raw will be nine numbers, and every 3*3 square is the 1 - 9.
+Then now I'm working on how to get the right number to fill in with the right block, which it should follow the the game rules, but that is the hard part wich I'm still working on now.
+
+---
+
+# Reflection 6
+## 3/1/2018
+This week we got a extention on the homework for last week, it is because we did not have the time to finish it on last week's time, it needs more time them that to finish, I sit done for two hour just to finash the last problem.
+The things that we learned this week, is more how to use if, and, or, and print the things that is if some thing happens, it will print, and when this did not happen, it wi$
+The other one is that we get more in to the if statment, like we start to use and I start to learn more about the if and print statment, for the string. The one we start to do is to use and in a statement. In a statement, the and can work as a cannection point for two ro more statement, it will get like a sentence, and if the sentence is waht you want and also you want this sentence to work as this way too, if that is all you want you will get the sentence printed.
+The next is to use or in the statement, the or is tohave a sentence for example, you want this sentence to work this way or you want this sentence to work this way, and the and, or two word can be use in a same statement, and make sure we need to put a ()on each side of the and, or statement.
+
+---
+
 # Reflection 5
 ## 2/23/2018
 This week we keep learning about string and booliam, the advanced part of all this. I learned how to make a python file with if and else and elif.
