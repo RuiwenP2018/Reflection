@@ -1,3 +1,11 @@
+# Reflextion 8
+## 3/16/2018
+The week start with learning three more things, one is def and another is the advanced programming on how to get the list work more better.
+The def full name is defination, it just like what it sounds like, its a deffination on the code. We use the def to write a code that will let other code read it, and let the other code understand what they need to do.
+Once we are done with the def code, we can start write the normal code, and in the normal code, we can use the def to let the code run it, and what ever you put in the def, the code will be abal to run it through that way, and then you can use def for many time, def is basicaly a code that will make a word to become a code that will work.
+
+---
+
 # Reflextion 7
 ## 3/9/2018
 This week is a pretty easy week, the first day we start with learning more about how the booleam wors, and how it can be more advanced, and the new home word is really hard for me now, but I am still working on it, it needs more work with string and booleam.
