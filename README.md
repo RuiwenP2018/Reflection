@@ -1,3 +1,11 @@
+# Reflection 9
+## 4/13/2018
+This week we all got back with the unfinished homw owrk on the dice.py because we did not do them over time, instand we did all in the last night, so most of us did not finish.
+The work I had was unfinished too, I had the definationto be that it will tellthe computer to add number directly in the function, and turn the number of the game the olayer win out.
+But iod did not work that way, I had to change a lot to make sure it works, in finaly worked, why? because I put the function on only telling me who win not how many they win, then I can add them up, then come with the final winner, then the problem is solved. 
+
+---
+
 # Reflextion 8
 ## 3/16/2018
 The week start with learning three more things, one is def and another is the advanced programming on how to get the list work more better.
