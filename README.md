@@ -1,3 +1,12 @@
+#Reflection 10
+##5/11/2018
+The few weeks i have not done a reflection, on this few weeks, I have done a lot.
+I start more on the Google friday project, its looking pretty good now. I start with making a board, which I first thought to make a 5*5 board but lay=ter I think 10*10 is better. And I did a little research on what is going to be the most important thing for my battalship board game, It should be how I am gpoint to make the player get the right place on where they want to hit. too big of a map, can lead to the player playing a longer game.
+Then we did some work on Kada, which is a web coding problem, that you can do coding on the web.
+One of the best problem I see is where we should separate the word from a long letter of sentence, which then I can get the words of a song from it, it's cool but also hard to do, because its been a wile sence I havent done anything with word counting and Len() of something, But then we get to learn how to get all this strait, when the teacher told us, how did it work out.
+
+---
+
 # Reflection 9
 ## 4/13/2018
 This week we all got back with the unfinished homw owrk on the dice.py because we did not do them over time, instand we did all in the last night, so most of us did not finish.
