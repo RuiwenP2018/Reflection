@@ -1,3 +1,13 @@
+#Reflesction 11
+##5/18/2018
+It's time to say good bye, it's been a long time sice I have got to this school, and for the last year of my high school life, it's good to choose Computer programing as one of my snior clases, it's fun most of the time, but, also challenging, I still remainber in the begining of the year, I start with the class with out knowing anything about all the things that I have learn now.
+I start with programing on the second semester and I start to learn how to right a list on the github, and how to uploade the homework to the github. then we start to learn how to right all kind of fun things on putty.
+After we learned how to use Putty, we move on to learn how to use python 2 on the putty, how you would run it, and how you should write code on the putty and put it in use.
+After learning all this things, I now have knoun how to write a code that can do if somrthing then something, while something then something, it's all a part of computer language, and with all this code, I have acomplish many problem, again it's fun but also hard, Like for a few time, I had to do the coding after taps, and till 12 on the night, so the WIFI shut off, and I will have no choice then just shut down the computer and go to bed.
+So, it's good, I have some how enjoy doing this, and I still like to learn more about it.y
+
+---
+
 #Reflection 10
 ##5/11/2018
 The few weeks i have not done a reflection, on this few weeks, I have done a lot.
